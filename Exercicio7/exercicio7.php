@@ -8,9 +8,9 @@
 <body>
     <h1>Cálculo de área</h1>
     <form method="post" action="resposta7.php">
-        <label for="fahr">Informe o comprimento do retângulo:</label>
+        <label for="comprimento">Informe o comprimento do retângulo:</label>
         <input type="number" id="comprimento" name="comprimento">
-        <label for="fahr">Informe a largura do retângulo:</label>
+        <label for="largura">Informe a largura do retângulo:</label>
         <input type="number" id="largura" name="largura">
         <button type="submit">Enviar</button>
     </form>
