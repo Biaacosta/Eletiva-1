@@ -6,7 +6,7 @@
     <title>Exercício 12</title>
 </head>
 <body>
-    <h1>Cálculo de potência</h1>
+    <h1>Conversão em metros</h1>
     <form method="post" action="resposta12.php">
         <label for="metrps">Informe uma medida em metros:</label>
         <input type="number" id="metros" name="metros">
