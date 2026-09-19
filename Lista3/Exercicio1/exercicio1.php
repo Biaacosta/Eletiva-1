@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercício 9</title>
+    <title>Exercício 1</title>
 </head>
 <body>
-    <h1>Tabuada</h1>
-    <form method="post" action="resposta9.php">
-        <label for="numero">Informe um número:</label>
-        <input type="number" id="numero" name="numero">
+    <h1>Número de caracteres</h1>
+    <form method="post" action="resposta1.php">
+        <label for="palavra">Digite uma palavra:</label>
+        <input type="text" id="palavra" name="palavra">
         <button type="submit">Enviar</button>
     </form>
     
